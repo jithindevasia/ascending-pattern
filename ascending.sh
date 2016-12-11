@@ -1,6 +1,6 @@
 # ---------------------------------
-#	Written by Jithin Devasia
-#	jithindevasia@gmail.com
+# |	Written by Jithin Devasia	  |
+# |	jithindevasia@gmail.com		  |
 # ---------------------------------
 # This script will print asterisk symbol (*) in an ascending order pattern based on the input you given.
 #	*
